@@ -1,7 +1,6 @@
 # JsonPowerDB
 
-[Documentation Link 
-(https://login2explore.com/jpdb/docs.html)]
+[Documentation Link]: (https://login2explore.com/jpdb/docs.html)
 
 # Title : 
 Student Information Collection Form
