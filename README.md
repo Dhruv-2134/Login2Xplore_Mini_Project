@@ -1,6 +1,6 @@
 # JsonPowerDB
 
-[Documentation Link] (https://login2explore.com/jpdb/docs.html)
+(https://login2explore.com/jpdb/docs.html)**[Documentation Link]**
 
 # Title : 
 Student Information Collection Form
@@ -23,3 +23,6 @@ JsonPowerDB is a Real-time, High Performance, Lightweight and Simple to Use, Res
 
 # Release history :
 28th October, 2023
+
+# Project Status :
+Completed.
